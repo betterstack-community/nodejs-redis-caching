@@ -1,25 +1,15 @@
-# Title of the project
+# Redis Caching in Node.js
 
-Description of the project.
-
-**Tutorial**: [Link to corresponding BetterStack tutorial]()
-
-![Screenshot or GIF of the application in action](screenshot.png)
+**Tutorial**:
+[Redis Caching in Node.js](https://betterstack.com/community/guides/scaling-nodejs/nodejs-caching-redis/)
 
 ## 🟢 Prerequisites
 
-A list of requirements and package versions that the reader needs to build and
-run the project.
-
-- The first thing.
-- The second thing.
-
-## 📦 Getting started
-
-A brief guide to setting up the project.
-
-- Do the first thing.
-- Do the next thing.
+- Prior Node.js development experience.
+- A recent version of [Node.js](https://nodejs.org/en/download/) and
+  [npm](https://www.npmjs.com/get-npm) installed on your computer.
+- [Docker](https://docs.docker.com/get-started/get-docker/) and
+  [SQlite](https://www.sqlite.org/download.html) installed.
 
 ## ⚖ License
 
